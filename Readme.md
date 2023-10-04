@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-gehlot&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-gehlot" /> </p>
 
-- 🌱 I’m **React Developer**
+- 🌱 I’m a **React Developer**
 
 - 📫 How to reach me **jaygehlot99810@gmail.com**
 
